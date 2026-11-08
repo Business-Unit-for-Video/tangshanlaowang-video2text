@@ -1,0 +1,15 @@
+{
+  "status": "finished_with_errors",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/tdj1LqhKmts.%(ext)s', 'https://www.youtube.com/watch?v=tdj1LqhKmts'])",
+  "destination": "tangshanlaowang",
+  "channel_url": "https://www.youtube.com/@tangshanlaowang",
+  "include_members": false,
+  "queue_total": 272,
+  "queue_index": 1,
+  "updated_at": 1794142235,
+  "updated_at_readable": "2026-11-08 12:50:35",
+  "current_video_id": "tdj1LqhKmts",
+  "current_title": "做好准备，未来几年世界将动荡不断【汤山老王】",
+  "current_url": "https://www.youtube.com/watch?v=tdj1LqhKmts",
+  "current_tab": "videos"
+}

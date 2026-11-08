@@ -1,0 +1,6 @@
+video_id: tdj1LqhKmts
+title: 做好准备，未来几年世界将动荡不断【汤山老王】
+url: https://www.youtube.com/watch?v=tdj1LqhKmts
+tab: videos
+time: 2026-11-08 12:50:35
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/tdj1LqhKmts.%(ext)s', 'https://www.youtube.com/watch?v=tdj1LqhKmts'])
