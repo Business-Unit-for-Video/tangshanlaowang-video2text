@@ -1,0 +1,6 @@
+video_id: cwrHVo7i95Y
+title: 不看电视不接电话的中国人，社会和市场互信是如何被毁掉的？【汤山老王】
+url: https://www.youtube.com/watch?v=cwrHVo7i95Y
+tab: videos
+time: 2026-11-08 20:47:06
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/cwrHVo7i95Y.%(ext)s', 'https://www.youtube.com/watch?v=cwrHVo7i95Y'])
