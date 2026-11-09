@@ -3,14 +3,28 @@
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "repository": "Business-Unit-for-Video/tangshanlaowang-video2text",
   "destination": "tangshanlaowang",
-  "generated_at": "2026-11-08 20:46:59",
+  "generated_at": "2026-11-09 07:12:51",
   "counts": {
     "completed": 0,
     "pending": 270,
-    "failed": 2,
+    "failed": 3,
     "partial": 0
   },
   "items": [
+    {
+      "id": "Vkpx306sM8M",
+      "title": "黄仁勋承认出轨，绝不仅是裤裆里那点事儿【汤山老王】",
+      "url": "https://www.youtube.com/watch?v=Vkpx306sM8M",
+      "duration": 951,
+      "tab": "videos",
+      "playlist_id": null,
+      "playlist_title": null,
+      "playlist_index": null,
+      "availability": null,
+      "transcript_status": "failed",
+      "plain_url": null,
+      "timestamps_url": null
+    },
     {
       "id": "tdj1LqhKmts",
       "title": "做好准备，未来几年世界将动荡不断【汤山老王】",
