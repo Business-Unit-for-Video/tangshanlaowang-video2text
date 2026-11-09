@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/Vkpx306sM8M.%(ext)s', 'https://www.youtube.com/watch?v=Vkpx306sM8M'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/tbF4qswDZv4.%(ext)s', 'https://www.youtube.com/watch?v=tbF4qswDZv4'])",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 273,
-  "queue_index": 1,
-  "updated_at": 1794208378,
-  "updated_at_readable": "2026-11-09 07:12:58",
-  "current_video_id": "Vkpx306sM8M",
-  "current_title": "黄仁勋承认出轨，绝不仅是裤裆里那点事儿【汤山老王】",
-  "current_url": "https://www.youtube.com/watch?v=Vkpx306sM8M",
+  "queue_index": 4,
+  "updated_at": 1794251347,
+  "updated_at_readable": "2026-11-09 19:09:07",
+  "current_video_id": "tbF4qswDZv4",
+  "current_title": "AI投资正在重演08年次贷危机！全球资产暴跌，但这只是刚刚开始【汤山老王】",
+  "current_url": "https://www.youtube.com/watch?v=tbF4qswDZv4",
   "current_tab": "videos"
 }

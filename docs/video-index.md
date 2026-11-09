@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@tangshanlaowang)。
 
-共 273 条：已转写 0，待转写 270，失败待处理 3，文件不完整 0。
+共 273 条：已转写 0，待转写 269，失败待处理 4，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -11,7 +11,7 @@
 | [黄仁勋承认出轨，绝不仅是裤裆里那点事儿【汤山老王】](https://www.youtube.com/watch?v=Vkpx306sM8M) | 未分类 | 15:51 | 失败待处理 | — | — |
 | [做好准备，未来几年世界将动荡不断【汤山老王】](https://www.youtube.com/watch?v=tdj1LqhKmts) | 未分类 | 22:36 | 失败待处理 | — | — |
 | [不看电视不接电话的中国人，社会和市场互信是如何被毁掉的？【汤山老王】](https://www.youtube.com/watch?v=cwrHVo7i95Y) | 未分类 | 22:28 | 失败待处理 | — | — |
-| [AI投资正在重演08年次贷危机！全球资产暴跌，但这只是刚刚开始【汤山老王】](https://www.youtube.com/watch?v=tbF4qswDZv4) | 未分类 | 24:09 | 待转写 | — | — |
+| [AI投资正在重演08年次贷危机！全球资产暴跌，但这只是刚刚开始【汤山老王】](https://www.youtube.com/watch?v=tbF4qswDZv4) | 未分类 | 24:09 | 失败待处理 | — | — |
 | [再次提醒：AI泡沫离破裂不远了【汤山老王】](https://www.youtube.com/watch?v=3jnlqIEnPcM) | 未分类 | 21:35 | 待转写 | — | — |
 | [问“薪”无愧【汤山老王】](https://www.youtube.com/watch?v=DBzGXIBiC1g) | 未分类 | 17:01 | 待转写 | — | — |
 | [长鑫上市，国资吃饱，股权财政，此路不通【汤山老王】](https://www.youtube.com/watch?v=kLCDwcBz_PU) | 未分类 | 12:40 | 待转写 | — | — |
