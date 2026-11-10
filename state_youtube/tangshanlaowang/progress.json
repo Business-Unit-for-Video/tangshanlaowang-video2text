@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/DBzGXIBiC1g.%(ext)s', 'https://www.youtube.com/watch?v=DBzGXIBiC1g'])",
+  "note": "RuntimeError('audio file not found for kLCDwcBz_PU')",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 273,
-  "queue_index": 6,
-  "updated_at": 1794328664,
-  "updated_at_readable": "2026-11-10 16:37:44",
-  "current_video_id": "DBzGXIBiC1g",
-  "current_title": "问“薪”无愧【汤山老王】",
-  "current_url": "https://www.youtube.com/watch?v=DBzGXIBiC1g",
+  "queue_index": 7,
+  "updated_at": 1794347904,
+  "updated_at_readable": "2026-11-10 21:58:24",
+  "current_video_id": "kLCDwcBz_PU",
+  "current_title": "长鑫上市，国资吃饱，股权财政，此路不通【汤山老王】",
+  "current_url": "https://www.youtube.com/watch?v=kLCDwcBz_PU",
   "current_tab": "videos"
 }
