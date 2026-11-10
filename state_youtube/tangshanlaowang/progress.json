@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/tbF4qswDZv4.%(ext)s', 'https://www.youtube.com/watch?v=tbF4qswDZv4'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/3jnlqIEnPcM.%(ext)s', 'https://www.youtube.com/watch?v=3jnlqIEnPcM'])",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 273,
-  "queue_index": 4,
-  "updated_at": 1794251347,
-  "updated_at_readable": "2026-11-09 19:09:07",
-  "current_video_id": "tbF4qswDZv4",
-  "current_title": "AI投资正在重演08年次贷危机！全球资产暴跌，但这只是刚刚开始【汤山老王】",
-  "current_url": "https://www.youtube.com/watch?v=tbF4qswDZv4",
+  "queue_index": 5,
+  "updated_at": 1794296714,
+  "updated_at_readable": "2026-11-10 07:45:14",
+  "current_video_id": "3jnlqIEnPcM",
+  "current_title": "再次提醒：AI泡沫离破裂不远了【汤山老王】",
+  "current_url": "https://www.youtube.com/watch?v=3jnlqIEnPcM",
   "current_tab": "videos"
 }
