@@ -1,0 +1,6 @@
+video_id: Zh02Hryu684
+title: 3万中产和3个富豪【汤山老王】
+url: https://www.youtube.com/watch?v=Zh02Hryu684
+tab: videos
+time: 2026-11-11 23:04:23
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/Zh02Hryu684.%(ext)s', 'https://www.youtube.com/watch?v=Zh02Hryu684'])
