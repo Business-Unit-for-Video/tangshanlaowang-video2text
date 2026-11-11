@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/UuLX_2VEsR0.%(ext)s', 'https://www.youtube.com/watch?v=UuLX_2VEsR0'])",
+  "note": "RuntimeError('audio file not found for 5sE1Moi9jk4')",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 273,
-  "queue_index": 8,
-  "updated_at": 1794380992,
-  "updated_at_readable": "2026-11-11 07:09:52",
-  "current_video_id": "UuLX_2VEsR0",
-  "current_title": "中国人为什么越活越累？【汤山老王】",
-  "current_url": "https://www.youtube.com/watch?v=UuLX_2VEsR0",
+  "queue_index": 9,
+  "updated_at": 1794416179,
+  "updated_at_readable": "2026-11-11 16:56:19",
+  "current_video_id": "5sE1Moi9jk4",
+  "current_title": "这不仅是中国足球的问题，各行各业都一样【汤山老王】",
+  "current_url": "https://www.youtube.com/watch?v=5sE1Moi9jk4",
   "current_tab": "videos"
 }
