@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "RuntimeError('audio file not found for kLCDwcBz_PU')",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/UuLX_2VEsR0.%(ext)s', 'https://www.youtube.com/watch?v=UuLX_2VEsR0'])",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 273,
-  "queue_index": 7,
-  "updated_at": 1794347904,
-  "updated_at_readable": "2026-11-10 21:58:24",
-  "current_video_id": "kLCDwcBz_PU",
-  "current_title": "长鑫上市，国资吃饱，股权财政，此路不通【汤山老王】",
-  "current_url": "https://www.youtube.com/watch?v=kLCDwcBz_PU",
+  "queue_index": 8,
+  "updated_at": 1794380992,
+  "updated_at_readable": "2026-11-11 07:09:52",
+  "current_video_id": "UuLX_2VEsR0",
+  "current_title": "中国人为什么越活越累？【汤山老王】",
+  "current_url": "https://www.youtube.com/watch?v=UuLX_2VEsR0",
   "current_tab": "videos"
 }
