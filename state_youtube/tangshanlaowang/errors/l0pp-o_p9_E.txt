@@ -1,0 +1,6 @@
+video_id: l0pp-o_p9_E
+title: AI革命，一个永久性的底层阶级正在出现【汤山老王】
+url: https://www.youtube.com/watch?v=l0pp-o_p9_E
+tab: videos
+time: 2026-11-12 07:44:10
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/l0pp-o_p9_E.%(ext)s', 'https://www.youtube.com/watch?v=l0pp-o_p9_E'])
