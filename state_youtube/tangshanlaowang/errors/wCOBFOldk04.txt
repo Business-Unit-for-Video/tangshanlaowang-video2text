@@ -1,0 +1,6 @@
+video_id: wCOBFOldk04
+title: 五粮液？涂改液！当一切都可以被涂改，我们还能相信什么？【汤山老王】
+url: https://www.youtube.com/watch?v=wCOBFOldk04
+tab: videos
+time: 2026-11-12 17:05:19
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/wCOBFOldk04.%(ext)s', 'https://www.youtube.com/watch?v=wCOBFOldk04'])
