@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@tangshanlaowang)。
 
-共 273 条：已转写 0，待转写 259，失败待处理 14，文件不完整 0。
+共 273 条：已转写 0，待转写 258，失败待处理 15，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -22,7 +22,7 @@
 | [五粮液？涂改液！当一切都可以被涂改，我们还能相信什么？【汤山老王】](https://www.youtube.com/watch?v=wCOBFOldk04) | 未分类 | 15:36 | 失败待处理 | — | — |
 | [谁偷走了农民养老金？【汤山老王】](https://www.youtube.com/watch?v=5Q9CX7-wQoc) | 未分类 | 20:19 | 失败待处理 | — | — |
 | [金融抑制：隐形的财富转移【汤山老王】](https://www.youtube.com/watch?v=MnDB9axdpok) | 未分类 | 16:50 | 失败待处理 | — | — |
-| [中国股市的“元凶”——量化【汤山老王】](https://www.youtube.com/watch?v=-rUBUbYpuXM) | 未分类 | 15:31 | 待转写 | — | — |
+| [中国股市的“元凶”——量化【汤山老王】](https://www.youtube.com/watch?v=-rUBUbYpuXM) | 未分类 | 15:31 | 失败待处理 | — | — |
 | [让世界再一次糜烂十年的石油危机正在酝酿？](https://www.youtube.com/watch?v=1GiI4hshKLY) | 未分类 | 19:51 | 待转写 | — | — |
 | [人类历史上最大的泡沫，即将破裂【汤山老王】](https://www.youtube.com/watch?v=wFvnMp-w7fw) | 未分类 | 17:08 | 待转写 | — | — |
 | [白银疯了！背后是一场世纪级“逼空大战” 【汤山老王】](https://www.youtube.com/watch?v=MK_03B-gdqw) | 未分类 | 16:26 | 待转写 | — | — |
