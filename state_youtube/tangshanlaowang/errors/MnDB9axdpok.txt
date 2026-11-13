@@ -1,0 +1,6 @@
+video_id: MnDB9axdpok
+title: 金融抑制：隐形的财富转移【汤山老王】
+url: https://www.youtube.com/watch?v=MnDB9axdpok
+tab: videos
+time: 2026-11-13 16:45:52
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/MnDB9axdpok.%(ext)s', 'https://www.youtube.com/watch?v=MnDB9axdpok'])
