@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@tangshanlaowang)。
 
-共 273 条：已转写 0，待转写 261，失败待处理 12，文件不完整 0。
+共 273 条：已转写 0，待转写 260，失败待处理 13，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -20,7 +20,7 @@
 | [3万中产和3个富豪【汤山老王】](https://www.youtube.com/watch?v=Zh02Hryu684) | 未分类 | 15:07 | 失败待处理 | — | — |
 | [AI革命，一个永久性的底层阶级正在出现【汤山老王】](https://www.youtube.com/watch?v=l0pp-o_p9_E) | 未分类 | 19:43 | 失败待处理 | — | — |
 | [五粮液？涂改液！当一切都可以被涂改，我们还能相信什么？【汤山老王】](https://www.youtube.com/watch?v=wCOBFOldk04) | 未分类 | 15:36 | 失败待处理 | — | — |
-| [谁偷走了农民养老金？【汤山老王】](https://www.youtube.com/watch?v=5Q9CX7-wQoc) | 未分类 | 20:19 | 待转写 | — | — |
+| [谁偷走了农民养老金？【汤山老王】](https://www.youtube.com/watch?v=5Q9CX7-wQoc) | 未分类 | 20:19 | 失败待处理 | — | — |
 | [金融抑制：隐形的财富转移【汤山老王】](https://www.youtube.com/watch?v=MnDB9axdpok) | 未分类 | 16:50 | 待转写 | — | — |
 | [中国股市的“元凶”——量化【汤山老王】](https://www.youtube.com/watch?v=-rUBUbYpuXM) | 未分类 | 15:31 | 待转写 | — | — |
 | [让世界再一次糜烂十年的石油危机正在酝酿？](https://www.youtube.com/watch?v=1GiI4hshKLY) | 未分类 | 19:51 | 待转写 | — | — |
