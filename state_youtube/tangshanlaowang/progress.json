@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/wFvnMp-w7fw.%(ext)s', 'https://www.youtube.com/watch?v=wFvnMp-w7fw'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/MK_03B-gdqw.%(ext)s', 'https://www.youtube.com/watch?v=MK_03B-gdqw'])",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 273,
-  "queue_index": 17,
-  "updated_at": 1794669697,
-  "updated_at_readable": "2026-11-14 15:21:37",
-  "current_video_id": "wFvnMp-w7fw",
-  "current_title": "人类历史上最大的泡沫，即将破裂【汤山老王】",
-  "current_url": "https://www.youtube.com/watch?v=wFvnMp-w7fw",
+  "queue_index": 18,
+  "updated_at": 1794689809,
+  "updated_at_readable": "2026-11-14 20:56:49",
+  "current_video_id": "MK_03B-gdqw",
+  "current_title": "白银疯了！背后是一场世纪级“逼空大战” 【汤山老王】",
+  "current_url": "https://www.youtube.com/watch?v=MK_03B-gdqw",
   "current_tab": "videos"
 }

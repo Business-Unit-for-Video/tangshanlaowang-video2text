@@ -1,0 +1,6 @@
+video_id: MK_03B-gdqw
+title: 白银疯了！背后是一场世纪级“逼空大战” 【汤山老王】
+url: https://www.youtube.com/watch?v=MK_03B-gdqw
+tab: videos
+time: 2026-11-14 20:56:49
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/MK_03B-gdqw.%(ext)s', 'https://www.youtube.com/watch?v=MK_03B-gdqw'])
