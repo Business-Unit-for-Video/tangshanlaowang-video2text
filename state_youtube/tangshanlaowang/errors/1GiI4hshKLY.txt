@@ -1,0 +1,6 @@
+video_id: 1GiI4hshKLY
+title: 让世界再一次糜烂十年的石油危机正在酝酿？
+url: https://www.youtube.com/watch?v=1GiI4hshKLY
+tab: videos
+time: 2026-11-14 07:02:45
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/1GiI4hshKLY.%(ext)s', 'https://www.youtube.com/watch?v=1GiI4hshKLY'])

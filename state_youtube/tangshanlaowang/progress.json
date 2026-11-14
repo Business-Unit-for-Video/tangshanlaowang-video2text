@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/-rUBUbYpuXM.%(ext)s', 'https://www.youtube.com/watch?v=-rUBUbYpuXM'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/1GiI4hshKLY.%(ext)s', 'https://www.youtube.com/watch?v=1GiI4hshKLY'])",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 273,
-  "queue_index": 15,
-  "updated_at": 1794608023,
-  "updated_at_readable": "2026-11-13 22:13:43",
-  "current_video_id": "-rUBUbYpuXM",
-  "current_title": "中国股市的“元凶”——量化【汤山老王】",
-  "current_url": "https://www.youtube.com/watch?v=-rUBUbYpuXM",
+  "queue_index": 16,
+  "updated_at": 1794639765,
+  "updated_at_readable": "2026-11-14 07:02:45",
+  "current_video_id": "1GiI4hshKLY",
+  "current_title": "让世界再一次糜烂十年的石油危机正在酝酿？",
+  "current_url": "https://www.youtube.com/watch?v=1GiI4hshKLY",
   "current_tab": "videos"
 }
