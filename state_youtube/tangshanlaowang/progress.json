@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/1GiI4hshKLY.%(ext)s', 'https://www.youtube.com/watch?v=1GiI4hshKLY'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/wFvnMp-w7fw.%(ext)s', 'https://www.youtube.com/watch?v=wFvnMp-w7fw'])",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 273,
-  "queue_index": 16,
-  "updated_at": 1794639765,
-  "updated_at_readable": "2026-11-14 07:02:45",
-  "current_video_id": "1GiI4hshKLY",
-  "current_title": "让世界再一次糜烂十年的石油危机正在酝酿？",
-  "current_url": "https://www.youtube.com/watch?v=1GiI4hshKLY",
+  "queue_index": 17,
+  "updated_at": 1794669697,
+  "updated_at_readable": "2026-11-14 15:21:37",
+  "current_video_id": "wFvnMp-w7fw",
+  "current_title": "人类历史上最大的泡沫，即将破裂【汤山老王】",
+  "current_url": "https://www.youtube.com/watch?v=wFvnMp-w7fw",
   "current_tab": "videos"
 }
