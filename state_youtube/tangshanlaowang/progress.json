@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/wKplgwaCG1c.%(ext)s', 'https://www.youtube.com/watch?v=wKplgwaCG1c'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/uV7tEziwLOk.%(ext)s', 'https://www.youtube.com/watch?v=uV7tEziwLOk'])",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 273,
-  "queue_index": 19,
-  "updated_at": 1794726765,
-  "updated_at_readable": "2026-11-15 07:12:45",
-  "current_video_id": "wKplgwaCG1c",
-  "current_title": "人民币将大幅升值？人民币的真实购买力【汤山老王】",
-  "current_url": "https://www.youtube.com/watch?v=wKplgwaCG1c",
+  "queue_index": 20,
+  "updated_at": 1794758000,
+  "updated_at_readable": "2026-11-15 15:53:20",
+  "current_video_id": "uV7tEziwLOk",
+  "current_title": "香港的一把火，烧出了中国楼市的底【汤山老王】#hongkong #香港",
+  "current_url": "https://www.youtube.com/watch?v=uV7tEziwLOk",
   "current_tab": "videos"
 }
