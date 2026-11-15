@@ -1,0 +1,6 @@
+video_id: GRp-fUvdj6Y
+title: 返乡潮：经济转型下的人口逆流【汤山老王】
+url: https://www.youtube.com/watch?v=GRp-fUvdj6Y
+tab: videos
+time: 2026-11-15 21:18:25
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/GRp-fUvdj6Y.%(ext)s', 'https://www.youtube.com/watch?v=GRp-fUvdj6Y'])
