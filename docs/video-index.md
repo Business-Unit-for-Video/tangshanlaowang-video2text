@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@tangshanlaowang)。
 
-共 273 条：已转写 0，待转写 255，失败待处理 18，文件不完整 0。
+共 273 条：已转写 0，待转写 254，失败待处理 19，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -26,7 +26,7 @@
 | [让世界再一次糜烂十年的石油危机正在酝酿？](https://www.youtube.com/watch?v=1GiI4hshKLY) | 未分类 | 19:51 | 失败待处理 | — | — |
 | [人类历史上最大的泡沫，即将破裂【汤山老王】](https://www.youtube.com/watch?v=wFvnMp-w7fw) | 未分类 | 17:08 | 失败待处理 | — | — |
 | [白银疯了！背后是一场世纪级“逼空大战” 【汤山老王】](https://www.youtube.com/watch?v=MK_03B-gdqw) | 未分类 | 16:26 | 失败待处理 | — | — |
-| [人民币将大幅升值？人民币的真实购买力【汤山老王】](https://www.youtube.com/watch?v=wKplgwaCG1c) | 未分类 | 14:38 | 待转写 | — | — |
+| [人民币将大幅升值？人民币的真实购买力【汤山老王】](https://www.youtube.com/watch?v=wKplgwaCG1c) | 未分类 | 14:38 | 失败待处理 | — | — |
 | [香港的一把火，烧出了中国楼市的底【汤山老王】#hongkong #香港](https://www.youtube.com/watch?v=uV7tEziwLOk) | 未分类 | 12:01 | 待转写 | — | — |
 | [返乡潮：经济转型下的人口逆流【汤山老王】](https://www.youtube.com/watch?v=GRp-fUvdj6Y) | 未分类 | 14:27 | 待转写 | — | — |
 | [中产的蛰伏，国运的突围【汤山老王】](https://www.youtube.com/watch?v=P1xVipeYYbk) | 未分类 | 14:11 | 待转写 | — | — |

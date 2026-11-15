@@ -1,0 +1,6 @@
+video_id: wKplgwaCG1c
+title: 人民币将大幅升值？人民币的真实购买力【汤山老王】
+url: https://www.youtube.com/watch?v=wKplgwaCG1c
+tab: videos
+time: 2026-11-15 07:12:45
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/wKplgwaCG1c.%(ext)s', 'https://www.youtube.com/watch?v=wKplgwaCG1c'])
