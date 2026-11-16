@@ -1,0 +1,6 @@
+video_id: Q-tTjgGmqaw
+title: 全球大贬值时代，国家的手会越伸越长【汤山老王】
+url: https://www.youtube.com/watch?v=Q-tTjgGmqaw
+tab: videos
+time: 2026-11-16 18:55:44
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/Q-tTjgGmqaw.%(ext)s', 'https://www.youtube.com/watch?v=Q-tTjgGmqaw'])
