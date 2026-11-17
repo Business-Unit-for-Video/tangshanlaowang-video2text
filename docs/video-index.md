@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@tangshanlaowang)。
 
-共 273 条：已转写 0，待转写 250，失败待处理 23，文件不完整 0。
+共 273 条：已转写 0，待转写 249，失败待处理 24，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -31,7 +31,7 @@
 | [返乡潮：经济转型下的人口逆流【汤山老王】](https://www.youtube.com/watch?v=GRp-fUvdj6Y) | 未分类 | 14:27 | 失败待处理 | — | — |
 | [中产的蛰伏，国运的突围【汤山老王】](https://www.youtube.com/watch?v=P1xVipeYYbk) | 未分类 | 14:11 | 失败待处理 | — | — |
 | [全球大贬值时代，国家的手会越伸越长【汤山老王】](https://www.youtube.com/watch?v=Q-tTjgGmqaw) | 未分类 | 12:45 | 失败待处理 | — | — |
-| [美国政府大停摆，全球金融大泡沫【汤山老王】](https://www.youtube.com/watch?v=YhY7lPXt51g) | 未分类 | 16:22 | 待转写 | — | — |
+| [美国政府大停摆，全球金融大泡沫【汤山老王】](https://www.youtube.com/watch?v=YhY7lPXt51g) | 未分类 | 16:22 | 失败待处理 | — | — |
 | [三资改革：地方政府的“钱荒”与“钱术”【汤山老王】](https://www.youtube.com/watch?v=l5vEkSf-Rkw) | 未分类 | 14:49 | 待转写 | — | — |
 | [国资之殇：娃哈哈、万科启示录【汤山老王】#娃哈哈 #万科](https://www.youtube.com/watch?v=pTO9qSR8uz4) | 未分类 | 17:00 | 待转写 | — | — |
 | [中美博弈暗线：资产定价权的争夺【汤山老王】#中美關係 #中美博弈](https://www.youtube.com/watch?v=t6mY0kBwjjM) | 未分类 | 16:28 | 待转写 | — | — |
