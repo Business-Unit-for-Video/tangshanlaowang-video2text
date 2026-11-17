@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/YhY7lPXt51g.%(ext)s', 'https://www.youtube.com/watch?v=YhY7lPXt51g'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/l5vEkSf-Rkw.%(ext)s', 'https://www.youtube.com/watch?v=l5vEkSf-Rkw'])",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 273,
-  "queue_index": 24,
-  "updated_at": 1794904267,
-  "updated_at_readable": "2026-11-17 08:31:07",
-  "current_video_id": "YhY7lPXt51g",
-  "current_title": "美国政府大停摆，全球金融大泡沫【汤山老王】",
-  "current_url": "https://www.youtube.com/watch?v=YhY7lPXt51g",
+  "queue_index": 25,
+  "updated_at": 1794938033,
+  "updated_at_readable": "2026-11-17 17:53:53",
+  "current_video_id": "l5vEkSf-Rkw",
+  "current_title": "三资改革：地方政府的“钱荒”与“钱术”【汤山老王】",
+  "current_url": "https://www.youtube.com/watch?v=l5vEkSf-Rkw",
   "current_tab": "videos"
 }
