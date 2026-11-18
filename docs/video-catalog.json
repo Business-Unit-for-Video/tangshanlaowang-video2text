@@ -3,14 +3,28 @@
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "repository": "Business-Unit-for-Video/tangshanlaowang-video2text",
   "destination": "tangshanlaowang",
-  "generated_at": "2026-11-18 07:56:47",
+  "generated_at": "2026-11-18 17:34:20",
   "counts": {
     "completed": 0,
     "pending": 247,
-    "failed": 26,
+    "failed": 27,
     "partial": 0
   },
   "items": [
+    {
+      "id": "hHhIK8EZYAQ",
+      "title": "英伟达拒绝黄仁勋回归，人类史上最大的泡沫破裂无疑！【汤山老王】",
+      "url": "https://www.youtube.com/watch?v=hHhIK8EZYAQ",
+      "duration": 1645,
+      "tab": "videos",
+      "playlist_id": null,
+      "playlist_title": null,
+      "playlist_index": null,
+      "availability": null,
+      "transcript_status": "failed",
+      "plain_url": null,
+      "timestamps_url": null
+    },
     {
       "id": "Vkpx306sM8M",
       "title": "黄仁勋承认出轨，绝不仅是裤裆里那点事儿【汤山老王】",
