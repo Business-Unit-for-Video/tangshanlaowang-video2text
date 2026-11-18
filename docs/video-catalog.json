@@ -3,11 +3,11 @@
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "repository": "Business-Unit-for-Video/tangshanlaowang-video2text",
   "destination": "tangshanlaowang",
-  "generated_at": "2026-11-17 17:53:46",
+  "generated_at": "2026-11-18 07:56:47",
   "counts": {
     "completed": 0,
-    "pending": 248,
-    "failed": 25,
+    "pending": 247,
+    "failed": 26,
     "partial": 0
   },
   "items": [
@@ -371,7 +371,7 @@
       "playlist_title": null,
       "playlist_index": null,
       "availability": null,
-      "transcript_status": "pending",
+      "transcript_status": "failed",
       "plain_url": null,
       "timestamps_url": null
     },
