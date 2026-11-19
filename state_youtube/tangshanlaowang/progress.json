@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/t6mY0kBwjjM.%(ext)s', 'https://www.youtube.com/watch?v=t6mY0kBwjjM'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/nWKGOfBD1Q4.%(ext)s', 'https://www.youtube.com/watch?v=nWKGOfBD1Q4'])",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 274,
-  "queue_index": 28,
-  "updated_at": 1795076178,
-  "updated_at_readable": "2026-11-19 08:16:18",
-  "current_video_id": "t6mY0kBwjjM",
-  "current_title": "中美博弈暗线：资产定价权的争夺【汤山老王】#中美關係 #中美博弈",
-  "current_url": "https://www.youtube.com/watch?v=t6mY0kBwjjM",
+  "queue_index": 29,
+  "updated_at": 1795110450,
+  "updated_at_readable": "2026-11-19 17:47:30",
+  "current_video_id": "nWKGOfBD1Q4",
+  "current_title": "金价迭创新高，黄金还值得买吗？【汤山老王】#黄金 #金价",
+  "current_url": "https://www.youtube.com/watch?v=nWKGOfBD1Q4",
   "current_tab": "videos"
 }
