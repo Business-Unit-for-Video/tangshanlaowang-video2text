@@ -1,0 +1,6 @@
+video_id: wviHDd_9T_s
+title: 中国制造的执着，始于抗日战争【汤山老王】
+url: https://www.youtube.com/watch?v=wviHDd_9T_s
+tab: videos
+time: 2026-11-20 17:19:37
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/wviHDd_9T_s.%(ext)s', 'https://www.youtube.com/watch?v=wviHDd_9T_s'])

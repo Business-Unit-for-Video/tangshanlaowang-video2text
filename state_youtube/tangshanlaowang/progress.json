@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/lEIrBlmy89Y.%(ext)s', 'https://www.youtube.com/watch?v=lEIrBlmy89Y'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/wviHDd_9T_s.%(ext)s', 'https://www.youtube.com/watch?v=wviHDd_9T_s'])",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 274,
-  "queue_index": 30,
-  "updated_at": 1795160745,
-  "updated_at_readable": "2026-11-20 07:45:45",
-  "current_video_id": "lEIrBlmy89Y",
-  "current_title": "美国如期降息，但未来充满不确定性【汤山老王】",
-  "current_url": "https://www.youtube.com/watch?v=lEIrBlmy89Y",
+  "queue_index": 31,
+  "updated_at": 1795195177,
+  "updated_at_readable": "2026-11-20 17:19:37",
+  "current_video_id": "wviHDd_9T_s",
+  "current_title": "中国制造的执着，始于抗日战争【汤山老王】",
+  "current_url": "https://www.youtube.com/watch?v=wviHDd_9T_s",
   "current_tab": "videos"
 }
