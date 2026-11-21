@@ -3,11 +3,11 @@
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "repository": "Business-Unit-for-Video/tangshanlaowang-video2text",
   "destination": "tangshanlaowang",
-  "generated_at": "2026-11-21 16:23:53",
+  "generated_at": "2026-11-21 21:54:08",
   "counts": {
     "completed": 0,
     "pending": 241,
-    "failed": 33,
+    "failed": 34,
     "partial": 0
   },
   "items": [
@@ -483,7 +483,7 @@
       "playlist_title": null,
       "playlist_index": null,
       "availability": null,
-      "transcript_status": "pending",
+      "transcript_status": "failed",
       "plain_url": null,
       "timestamps_url": null
     },
@@ -3825,6 +3825,20 @@
       "url": "https://www.youtube.com/watch?v=j8Qm98HNWAY",
       "duration": 675,
       "tab": "videos",
+      "playlist_id": null,
+      "playlist_title": null,
+      "playlist_index": null,
+      "availability": null,
+      "transcript_status": "pending",
+      "plain_url": null,
+      "timestamps_url": null
+    },
+    {
+      "id": "Eff8RJrDjk0",
+      "title": "全球金融泡沫正式破裂！【汤山老王直播】",
+      "url": "https://www.youtube.com/watch?v=Eff8RJrDjk0",
+      "duration": 16229,
+      "tab": "streams",
       "playlist_id": null,
       "playlist_title": null,
       "playlist_index": null,

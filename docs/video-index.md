@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@tangshanlaowang)。
 
-共 274 条：已转写 0，待转写 241，失败待处理 33，文件不完整 0。
+共 275 条：已转写 0，待转写 241，失败待处理 34，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -41,7 +41,7 @@
 | [中国制造的执着，始于抗日战争【汤山老王】](https://www.youtube.com/watch?v=wviHDd_9T_s) | 未分类 | 18:02 | 失败待处理 | — | — |
 | [化债不是还债，只能用更大的债务解决债务问题【汤山老王】](https://www.youtube.com/watch?v=D-hqi0SjcBA) | 未分类 | 15:30 | 失败待处理 | — | — |
 | [社保乌龙：一个时代的集体焦虑【汤山老王】](https://www.youtube.com/watch?v=zMkWB76gpD0) | 未分类 | 14:54 | 失败待处理 | — | — |
-| [中国股市接近十年高点，还上车吗？【汤山老王】](https://www.youtube.com/watch?v=EjufVqXZYkQ) | 未分类 | 18:05 | 待转写 | — | — |
+| [中国股市接近十年高点，还上车吗？【汤山老王】](https://www.youtube.com/watch?v=EjufVqXZYkQ) | 未分类 | 18:05 | 失败待处理 | — | — |
 | [从佛门净地到资本江湖，灭佛运动与千年轮回【汤山老王】](https://www.youtube.com/watch?v=nftaPpiecJg) | 未分类 | 14:20 | 待转写 | — | — |
 | [反内卷：莫用更大的内卷解决内卷【汤山老王】](https://www.youtube.com/watch?v=qCVc7dmYLpA) | 未分类 | 14:38 | 待转写 | — | — |
 | [被大学生打掉的新生儿？【汤山老王】](https://www.youtube.com/watch?v=HmO7Ba7ZN6M) | 未分类 | 16:40 | 待转写 | — | — |
@@ -281,4 +281,5 @@
 | [以韩国为鉴，看懂高层为何急于对校外培训一刀切【汤山老王】](https://www.youtube.com/watch?v=z7XOJ8UxSsM) | 未分类 | 17:22 | 待转写 | — | — |
 | [教育医疗遭重锤后，轮到房子了！保障性租赁住房上升至国家战略【汤山老王】](https://www.youtube.com/watch?v=CHPKYdr9cDc) | 未分类 | 12:48 | 待转写 | — | — |
 | [美国通胀和中国房价的秘密，藏在费雪公式！楼市泡沫是怎么来的？【汤山老王】](https://www.youtube.com/watch?v=j8Qm98HNWAY) | 未分类 | 11:15 | 待转写 | — | — |
+| [全球金融泡沫正式破裂！【汤山老王直播】](https://www.youtube.com/watch?v=Eff8RJrDjk0) | 未分类 | 270:29 | 待转写 | — | — |
 | [GDP低于预期，不一定是坏事 #经济 #汤山老王](https://www.youtube.com/watch?v=FhzSqIWam9A) | 未分类 | 未知 | 待转写 | — | — |

@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/zMkWB76gpD0.%(ext)s', 'https://www.youtube.com/watch?v=zMkWB76gpD0'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/EjufVqXZYkQ.%(ext)s', 'https://www.youtube.com/watch?v=EjufVqXZYkQ'])",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
-  "queue_total": 274,
-  "queue_index": 33,
-  "updated_at": 1795278240,
-  "updated_at_readable": "2026-11-21 16:24:00",
-  "current_video_id": "zMkWB76gpD0",
-  "current_title": "社保乌龙：一个时代的集体焦虑【汤山老王】",
-  "current_url": "https://www.youtube.com/watch?v=zMkWB76gpD0",
+  "queue_total": 275,
+  "queue_index": 34,
+  "updated_at": 1795298124,
+  "updated_at_readable": "2026-11-21 21:55:24",
+  "current_video_id": "EjufVqXZYkQ",
+  "current_title": "中国股市接近十年高点，还上车吗？【汤山老王】",
+  "current_url": "https://www.youtube.com/watch?v=EjufVqXZYkQ",
   "current_tab": "videos"
 }

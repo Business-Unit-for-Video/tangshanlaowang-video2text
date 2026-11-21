@@ -2,7 +2,7 @@
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
-  "generated_at": "2026-11-21 16:23:53",
+  "generated_at": "2026-11-21 21:54:08",
   "items": [
     {
       "id": "hHhIK8EZYAQ",
@@ -3823,6 +3823,20 @@
       "playlist_index": null,
       "availability": null,
       "live_status": null,
+      "is_live": false,
+      "is_upcoming": false
+    },
+    {
+      "id": "Eff8RJrDjk0",
+      "title": "全球金融泡沫正式破裂！【汤山老王直播】",
+      "url": "https://www.youtube.com/watch?v=Eff8RJrDjk0",
+      "tab": "streams",
+      "duration": 16229,
+      "playlist_id": null,
+      "playlist_title": null,
+      "playlist_index": null,
+      "availability": null,
+      "live_status": "was_live",
       "is_live": false,
       "is_upcoming": false
     },
