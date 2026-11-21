@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/D-hqi0SjcBA.%(ext)s', 'https://www.youtube.com/watch?v=D-hqi0SjcBA'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/zMkWB76gpD0.%(ext)s', 'https://www.youtube.com/watch?v=zMkWB76gpD0'])",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 274,
-  "queue_index": 32,
-  "updated_at": 1795246961,
-  "updated_at_readable": "2026-11-21 07:42:41",
-  "current_video_id": "D-hqi0SjcBA",
-  "current_title": "化债不是还债，只能用更大的债务解决债务问题【汤山老王】",
-  "current_url": "https://www.youtube.com/watch?v=D-hqi0SjcBA",
+  "queue_index": 33,
+  "updated_at": 1795278240,
+  "updated_at_readable": "2026-11-21 16:24:00",
+  "current_video_id": "zMkWB76gpD0",
+  "current_title": "社保乌龙：一个时代的集体焦虑【汤山老王】",
+  "current_url": "https://www.youtube.com/watch?v=zMkWB76gpD0",
   "current_tab": "videos"
 }
