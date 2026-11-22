@@ -1,0 +1,6 @@
+video_id: qCVc7dmYLpA
+title: 反内卷：莫用更大的内卷解决内卷【汤山老王】
+url: https://www.youtube.com/watch?v=qCVc7dmYLpA
+tab: videos
+time: 2026-11-22 16:38:35
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/qCVc7dmYLpA.%(ext)s', 'https://www.youtube.com/watch?v=qCVc7dmYLpA'])
