@@ -1,0 +1,6 @@
+video_id: HmO7Ba7ZN6M
+title: 被大学生打掉的新生儿？【汤山老王】
+url: https://www.youtube.com/watch?v=HmO7Ba7ZN6M
+tab: videos
+time: 2026-11-22 22:02:36
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/HmO7Ba7ZN6M.%(ext)s', 'https://www.youtube.com/watch?v=HmO7Ba7ZN6M'])

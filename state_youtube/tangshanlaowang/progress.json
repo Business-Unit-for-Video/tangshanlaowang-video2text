@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/qCVc7dmYLpA.%(ext)s', 'https://www.youtube.com/watch?v=qCVc7dmYLpA'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/HmO7Ba7ZN6M.%(ext)s', 'https://www.youtube.com/watch?v=HmO7Ba7ZN6M'])",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 275,
-  "queue_index": 36,
-  "updated_at": 1795365515,
-  "updated_at_readable": "2026-11-22 16:38:35",
-  "current_video_id": "qCVc7dmYLpA",
-  "current_title": "反内卷：莫用更大的内卷解决内卷【汤山老王】",
-  "current_url": "https://www.youtube.com/watch?v=qCVc7dmYLpA",
+  "queue_index": 37,
+  "updated_at": 1795384956,
+  "updated_at_readable": "2026-11-22 22:02:36",
+  "current_video_id": "HmO7Ba7ZN6M",
+  "current_title": "被大学生打掉的新生儿？【汤山老王】",
+  "current_url": "https://www.youtube.com/watch?v=HmO7Ba7ZN6M",
   "current_tab": "videos"
 }

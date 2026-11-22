@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@tangshanlaowang)。
 
-共 275 条：已转写 0，待转写 239，失败待处理 36，文件不完整 0。
+共 275 条：已转写 0，待转写 238，失败待处理 37，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -44,7 +44,7 @@
 | [中国股市接近十年高点，还上车吗？【汤山老王】](https://www.youtube.com/watch?v=EjufVqXZYkQ) | 未分类 | 18:05 | 失败待处理 | — | — |
 | [从佛门净地到资本江湖，灭佛运动与千年轮回【汤山老王】](https://www.youtube.com/watch?v=nftaPpiecJg) | 未分类 | 14:20 | 失败待处理 | — | — |
 | [反内卷：莫用更大的内卷解决内卷【汤山老王】](https://www.youtube.com/watch?v=qCVc7dmYLpA) | 未分类 | 14:38 | 失败待处理 | — | — |
-| [被大学生打掉的新生儿？【汤山老王】](https://www.youtube.com/watch?v=HmO7Ba7ZN6M) | 未分类 | 16:40 | 待转写 | — | — |
+| [被大学生打掉的新生儿？【汤山老王】](https://www.youtube.com/watch?v=HmO7Ba7ZN6M) | 未分类 | 16:40 | 失败待处理 | — | — |
 | [汽车产业进入“恒大时刻”？大家的关注点错了【汤山老王】](https://www.youtube.com/watch?v=1PfxP7YVKlw) | 未分类 | 13:57 | 待转写 | — | — |
 | [从根儿上理解美元【汤山老王】](https://www.youtube.com/watch?v=JtKQcDhfNAk) | 未分类 | 17:28 | 待转写 | — | — |
 | [美国这次想要的，不仅是美元贬值【汤山老王】](https://www.youtube.com/watch?v=irjHJDPoBSw) | 未分类 | 18:22 | 待转写 | — | — |
