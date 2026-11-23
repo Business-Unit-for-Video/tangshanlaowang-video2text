@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/1PfxP7YVKlw.%(ext)s', 'https://www.youtube.com/watch?v=1PfxP7YVKlw'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/JtKQcDhfNAk.%(ext)s', 'https://www.youtube.com/watch?v=JtKQcDhfNAk'])",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 275,
-  "queue_index": 38,
-  "updated_at": 1795421705,
-  "updated_at_readable": "2026-11-23 08:15:05",
-  "current_video_id": "1PfxP7YVKlw",
-  "current_title": "汽车产业进入“恒大时刻”？大家的关注点错了【汤山老王】",
-  "current_url": "https://www.youtube.com/watch?v=1PfxP7YVKlw",
+  "queue_index": 39,
+  "updated_at": 1795466686,
+  "updated_at_readable": "2026-11-23 20:44:46",
+  "current_video_id": "JtKQcDhfNAk",
+  "current_title": "从根儿上理解美元【汤山老王】",
+  "current_url": "https://www.youtube.com/watch?v=JtKQcDhfNAk",
   "current_tab": "videos"
 }
