@@ -2,12 +2,13 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@tangshanlaowang)。
 
-共 275 条：已转写 0，待转写 236，失败待处理 39，文件不完整 0。
+共 275 条：已转写 0，待转写 235，失败待处理 40，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
 | 视频 | 播放列表分类 | 时长 | 状态 | 纯文本 | 时间戳文本 |
 |---|---|---:|---|---|---|
+| [黄仁勋回归，这个草台班子的世界，比你想象的还要荒唐！](https://www.youtube.com/watch?v=y1CLfjoQr_8) | 未分类 | 18:57 | 失败待处理 | — | — |
 | [英伟达拒绝黄仁勋回归，人类史上最大的泡沫破裂无疑！【汤山老王】](https://www.youtube.com/watch?v=hHhIK8EZYAQ) | 未分类 | 27:25 | 失败待处理 | — | — |
 | [黄仁勋承认出轨，绝不仅是裤裆里那点事儿【汤山老王】](https://www.youtube.com/watch?v=Vkpx306sM8M) | 未分类 | 15:51 | 失败待处理 | — | — |
 | [做好准备，未来几年世界将动荡不断【汤山老王】](https://www.youtube.com/watch?v=tdj1LqhKmts) | 未分类 | 22:36 | 失败待处理 | — | — |
@@ -281,5 +282,4 @@
 | [以韩国为鉴，看懂高层为何急于对校外培训一刀切【汤山老王】](https://www.youtube.com/watch?v=z7XOJ8UxSsM) | 未分类 | 17:22 | 待转写 | — | — |
 | [教育医疗遭重锤后，轮到房子了！保障性租赁住房上升至国家战略【汤山老王】](https://www.youtube.com/watch?v=CHPKYdr9cDc) | 未分类 | 12:48 | 待转写 | — | — |
 | [美国通胀和中国房价的秘密，藏在费雪公式！楼市泡沫是怎么来的？【汤山老王】](https://www.youtube.com/watch?v=j8Qm98HNWAY) | 未分类 | 11:15 | 待转写 | — | — |
-| [全球金融泡沫正式破裂！【汤山老王直播】](https://www.youtube.com/watch?v=Eff8RJrDjk0) | 未分类 | 270:29 | 待转写 | — | — |
 | [GDP低于预期，不一定是坏事 #经济 #汤山老王](https://www.youtube.com/watch?v=FhzSqIWam9A) | 未分类 | 未知 | 待转写 | — | — |

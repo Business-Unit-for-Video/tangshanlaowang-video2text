@@ -3,14 +3,28 @@
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "repository": "Business-Unit-for-Video/tangshanlaowang-video2text",
   "destination": "tangshanlaowang",
-  "generated_at": "2026-11-23 20:42:49",
+  "generated_at": "2026-11-24 10:25:59",
   "counts": {
     "completed": 0,
-    "pending": 236,
-    "failed": 39,
+    "pending": 235,
+    "failed": 40,
     "partial": 0
   },
   "items": [
+    {
+      "id": "y1CLfjoQr_8",
+      "title": "黄仁勋回归，这个草台班子的世界，比你想象的还要荒唐！",
+      "url": "https://www.youtube.com/watch?v=y1CLfjoQr_8",
+      "duration": 1137,
+      "tab": "videos",
+      "playlist_id": null,
+      "playlist_title": null,
+      "playlist_index": null,
+      "availability": null,
+      "transcript_status": "failed",
+      "plain_url": null,
+      "timestamps_url": null
+    },
     {
       "id": "hHhIK8EZYAQ",
       "title": "英伟达拒绝黄仁勋回归，人类史上最大的泡沫破裂无疑！【汤山老王】",
@@ -3825,20 +3839,6 @@
       "url": "https://www.youtube.com/watch?v=j8Qm98HNWAY",
       "duration": 675,
       "tab": "videos",
-      "playlist_id": null,
-      "playlist_title": null,
-      "playlist_index": null,
-      "availability": null,
-      "transcript_status": "pending",
-      "plain_url": null,
-      "timestamps_url": null
-    },
-    {
-      "id": "Eff8RJrDjk0",
-      "title": "全球金融泡沫正式破裂！【汤山老王直播】",
-      "url": "https://www.youtube.com/watch?v=Eff8RJrDjk0",
-      "duration": 16229,
-      "tab": "streams",
       "playlist_id": null,
       "playlist_title": null,
       "playlist_index": null,
