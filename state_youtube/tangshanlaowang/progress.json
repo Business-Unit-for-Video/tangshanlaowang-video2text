@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/irjHJDPoBSw.%(ext)s', 'https://www.youtube.com/watch?v=irjHJDPoBSw'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/1tfJpRBTzvU.%(ext)s', 'https://www.youtube.com/watch?v=1tfJpRBTzvU'])",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 275,
-  "queue_index": 41,
-  "updated_at": 1795568775,
-  "updated_at_readable": "2026-11-25 01:06:15",
-  "current_video_id": "irjHJDPoBSw",
-  "current_title": "美国这次想要的，不仅是美元贬值【汤山老王】",
-  "current_url": "https://www.youtube.com/watch?v=irjHJDPoBSw",
+  "queue_index": 42,
+  "updated_at": 1795632687,
+  "updated_at_readable": "2026-11-25 18:51:27",
+  "current_video_id": "1tfJpRBTzvU",
+  "current_title": "博弈论视角下的“中美和谈”【汤山老王】",
+  "current_url": "https://www.youtube.com/watch?v=1tfJpRBTzvU",
   "current_tab": "videos"
 }
