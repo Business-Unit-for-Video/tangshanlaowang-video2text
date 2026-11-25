@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@tangshanlaowang)。
 
-共 275 条：已转写 0，待转写 235，失败待处理 40，文件不完整 0。
+共 275 条：已转写 0，待转写 234，失败待处理 41，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -48,7 +48,7 @@
 | [被大学生打掉的新生儿？【汤山老王】](https://www.youtube.com/watch?v=HmO7Ba7ZN6M) | 未分类 | 16:40 | 失败待处理 | — | — |
 | [汽车产业进入“恒大时刻”？大家的关注点错了【汤山老王】](https://www.youtube.com/watch?v=1PfxP7YVKlw) | 未分类 | 13:57 | 失败待处理 | — | — |
 | [从根儿上理解美元【汤山老王】](https://www.youtube.com/watch?v=JtKQcDhfNAk) | 未分类 | 17:28 | 失败待处理 | — | — |
-| [美国这次想要的，不仅是美元贬值【汤山老王】](https://www.youtube.com/watch?v=irjHJDPoBSw) | 未分类 | 18:22 | 待转写 | — | — |
+| [美国这次想要的，不仅是美元贬值【汤山老王】](https://www.youtube.com/watch?v=irjHJDPoBSw) | 未分类 | 18:22 | 失败待处理 | — | — |
 | [博弈论视角下的“中美和谈”【汤山老王】](https://www.youtube.com/watch?v=1tfJpRBTzvU) | 未分类 | 11:07 | 待转写 | — | — |
 | [特朗普其人，中美谈判困境【汤山老王】](https://www.youtube.com/watch?v=-1QqmDbYxXU) | 未分类 | 16:52 | 待转写 | — | — |
 | [关税战下的中美金融博弈【汤山老王】](https://www.youtube.com/watch?v=h-5jlhPo050) | 未分类 | 10:54 | 待转写 | — | — |

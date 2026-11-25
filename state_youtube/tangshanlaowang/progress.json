@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/y1CLfjoQr_8.%(ext)s', 'https://www.youtube.com/watch?v=y1CLfjoQr_8'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/irjHJDPoBSw.%(ext)s', 'https://www.youtube.com/watch?v=irjHJDPoBSw'])",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 275,
-  "queue_index": 1,
-  "updated_at": 1795515966,
-  "updated_at_readable": "2026-11-24 10:26:06",
-  "current_video_id": "y1CLfjoQr_8",
-  "current_title": "黄仁勋回归，这个草台班子的世界，比你想象的还要荒唐！",
-  "current_url": "https://www.youtube.com/watch?v=y1CLfjoQr_8",
+  "queue_index": 41,
+  "updated_at": 1795568775,
+  "updated_at_readable": "2026-11-25 01:06:15",
+  "current_video_id": "irjHJDPoBSw",
+  "current_title": "美国这次想要的，不仅是美元贬值【汤山老王】",
+  "current_url": "https://www.youtube.com/watch?v=irjHJDPoBSw",
   "current_tab": "videos"
 }

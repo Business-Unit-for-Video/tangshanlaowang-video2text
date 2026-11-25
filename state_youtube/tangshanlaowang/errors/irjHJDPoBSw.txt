@@ -1,0 +1,6 @@
+video_id: irjHJDPoBSw
+title: 美国这次想要的，不仅是美元贬值【汤山老王】
+url: https://www.youtube.com/watch?v=irjHJDPoBSw
+tab: videos
+time: 2026-11-25 01:06:15
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/irjHJDPoBSw.%(ext)s', 'https://www.youtube.com/watch?v=irjHJDPoBSw'])
