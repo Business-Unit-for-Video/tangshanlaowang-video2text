@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/-1QqmDbYxXU.%(ext)s', 'https://www.youtube.com/watch?v=-1QqmDbYxXU'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/h-5jlhPo050.%(ext)s', 'https://www.youtube.com/watch?v=h-5jlhPo050'])",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 275,
-  "queue_index": 43,
-  "updated_at": 1795683260,
-  "updated_at_readable": "2026-11-26 08:54:20",
-  "current_video_id": "-1QqmDbYxXU",
-  "current_title": "特朗普其人，中美谈判困境【汤山老王】",
-  "current_url": "https://www.youtube.com/watch?v=-1QqmDbYxXU",
+  "queue_index": 44,
+  "updated_at": 1795740576,
+  "updated_at_readable": "2026-11-27 00:49:36",
+  "current_video_id": "h-5jlhPo050",
+  "current_title": "关税战下的中美金融博弈【汤山老王】",
+  "current_url": "https://www.youtube.com/watch?v=h-5jlhPo050",
   "current_tab": "videos"
 }
