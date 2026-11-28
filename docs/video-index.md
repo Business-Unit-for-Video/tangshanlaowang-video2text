@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@tangshanlaowang)。
 
-共 275 条：已转写 0，待转写 230，失败待处理 45，文件不完整 0。
+共 275 条：已转写 0，待转写 229，失败待处理 46，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -53,7 +53,7 @@
 | [特朗普其人，中美谈判困境【汤山老王】](https://www.youtube.com/watch?v=-1QqmDbYxXU) | 未分类 | 16:52 | 失败待处理 | — | — |
 | [关税战下的中美金融博弈【汤山老王】](https://www.youtube.com/watch?v=h-5jlhPo050) | 未分类 | 10:54 | 失败待处理 | — | — |
 | [美国的惊天阳谋，美元霸权的生死劫【汤山老王】](https://www.youtube.com/watch?v=ToBdD54TvcQ) | 未分类 | 13:49 | 失败待处理 | — | — |
-| [特朗普为何怂了？【汤山老王】](https://www.youtube.com/watch?v=tDCs8dPk0m8) | 未分类 | 14:51 | 待转写 | — | — |
+| [特朗普为何怂了？【汤山老王】](https://www.youtube.com/watch?v=tDCs8dPk0m8) | 未分类 | 14:51 | 失败待处理 | — | — |
 | [世界级的经济动荡，就在眼前【汤山老王】](https://www.youtube.com/watch?v=jm7P4nuouDI) | 未分类 | 15:13 | 待转写 | — | — |
 | [李嘉诚卖港口事件的遗憾【汤山老王】](https://www.youtube.com/watch?v=fFoLUbHjico) | 未分类 | 13:48 | 待转写 | — | — |
 | [央地的千年博弈【汤山老王】](https://www.youtube.com/watch?v=emlxTExdAoE) | 未分类 | 15:06 | 待转写 | — | — |

@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/ToBdD54TvcQ.%(ext)s', 'https://www.youtube.com/watch?v=ToBdD54TvcQ'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/tangshanlaowang/tDCs8dPk0m8.%(ext)s', 'https://www.youtube.com/watch?v=tDCs8dPk0m8'])",
   "destination": "tangshanlaowang",
   "channel_url": "https://www.youtube.com/@tangshanlaowang",
   "include_members": false,
   "queue_total": 275,
-  "queue_index": 45,
-  "updated_at": 1795804075,
-  "updated_at_readable": "2026-11-27 18:27:55",
-  "current_video_id": "ToBdD54TvcQ",
-  "current_title": "美国的惊天阳谋，美元霸权的生死劫【汤山老王】",
-  "current_url": "https://www.youtube.com/watch?v=ToBdD54TvcQ",
+  "queue_index": 46,
+  "updated_at": 1795854486,
+  "updated_at_readable": "2026-11-28 08:28:06",
+  "current_video_id": "tDCs8dPk0m8",
+  "current_title": "特朗普为何怂了？【汤山老王】",
+  "current_url": "https://www.youtube.com/watch?v=tDCs8dPk0m8",
   "current_tab": "videos"
 }
